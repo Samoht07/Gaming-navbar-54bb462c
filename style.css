@@ -1,13 +1,5 @@
 .navbar {
+    display: flex;
+    justify-content: space-around;
     background-color: rgba(57, 136, 77, 0.747);
-    text-align: center;
-    margin: 50px;
-    padding: 10px;
-    list-style-type: none;
-    text-decoration: none;
-}
-
-.navbar p {
-    margin: 80px;
-    display: inline;
 }
